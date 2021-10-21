@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no_data">No data</string>
+    <string name="get_data">Get data</string>
+    <string name="put_first_name">Put first name</string>
+    <string name="put_last_name">Put last name</string>
+    <string name="save_data">Save data</string>
+</resources>
